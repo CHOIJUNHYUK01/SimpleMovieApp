@@ -10,7 +10,7 @@
 .runtimeconfig.json
 .firebase/
 GoogleService-Info.plist
-SecureAPIKeys/
+Secrets.xcconfig
 
 
 ### Swift ###
