@@ -78,7 +78,7 @@ class NetworkManager: ObservableObject {
             DispatchQueue.main.async {
                 self.showAlert = true
                 self.alertTitle = "Sorry, We cannot found it"
-                self.alertMessage = "Try another term"
+                self.alertMessage = "Try another term please"
             }
             return nil
         }
